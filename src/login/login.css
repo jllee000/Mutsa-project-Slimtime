@@ -1,0 +1,35 @@
+
+.loginboxdiv{
+    margin-top: 18vh;
+    width: 30vw;
+    height: 38vh;
+    padding: 30px;
+    background-color: rgb(240, 248, 255, 0.9);
+    border-radius: 18px;
+}
+
+.logintxt{
+
+    font-size: 30px;
+}
+
+.loginbtn{
+    color: rgb(56, 56, 56);
+    border-color: rgb(205, 220, 233);
+    background-color: rgb(255, 255, 255);
+    font-family: 'SUITE-Regular';
+    font-weight: 1000;
+    font-size: 18px;
+    margin-top: 5vh;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 10px;
+}
+
+.loginbtn:hover{
+    background-color: rgb(219, 238, 255);
+}
+
+.idbox{
+    margin-top: 5vh;
+}
